@@ -1,0 +1,5 @@
+# Python bytecode
+__pycache__/
+
+# Secret key
+secret.key
