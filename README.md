@@ -2,7 +2,9 @@
 # Editor de Texto con Encriptación
 
 Simón Botero Villarraga
+
 Pablo Moreno Quintero
+
 Miguel Ángel Martínez García
 
 ## Descripción
